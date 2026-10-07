@@ -7,216 +7,274 @@
 **Building modern, responsive, and high-quality web experiences.**
 
 <p>
-  <img src="https://img.shields.io/badge/4%2B_Years-Development_Experience-0F766E?style=flat-square" alt="4+ years development experience" />
-  <img src="https://img.shields.io/badge/Focus-Web_Development-2563EB?style=flat-square" alt="Web Development" />
-  <img src="https://img.shields.io/badge/WordPress-%26_Moodle-21759B?style=flat-square" alt="WordPress and Moodle" />
-  <img src="https://img.shields.io/badge/Location-Pakistan-334155?style=flat-square" alt="Based in Pakistan" />
+  <img src="https://img.shields.io/badge/4%2B_Years-Development_Experience-0F766E?style=flat-square" />
+  <img src="https://img.shields.io/badge/WordPress-Developer-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Moodle-Developer-F98012?style=flat-square&logo=moodle&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-%26_Next.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Location-Pakistan-334155?style=flat-square" />
 </p>
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-View_Profile-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SaifAliSiddique)
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/)
-
-[![Email](https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:saifalisiddique1598@gmail.com)
+<a href="https://github.com/SaifAliSiddique">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/saifalisiddiqui/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:saifalisiddique1598@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## About Me
+## 👋 About Me
 
-I'm **Saif Ali Siddique**, a **Web Developer with 4+ years of experience** building modern websites, web applications, CMS platforms, and e-commerce experiences.
+I'm **Saif Ali Siddique**, a **Web Developer with 4+ years of experience** building modern websites, web applications, CMS platforms, LMS systems, and e-commerce experiences.
 
-My core expertise includes **WordPress, Moodle, JavaScript, React, Next.js, HTML, CSS, Shopify, and WooCommerce**. I work across both custom development and CMS-based projects, turning business requirements and designs into responsive, scalable, and easy-to-manage web solutions.
+My main expertise includes **WordPress, Moodle, React, Next.js, JavaScript, PHP, Shopify, and WooCommerce**.
 
-I enjoy working on projects where development, performance, usability, and clean implementation all come together.
+I work across both custom development and CMS-based projects, transforming business requirements and designs into responsive, functional, and maintainable web solutions.
 
-* **Web Development:** Modern responsive websites and web applications
-* **WordPress:** Custom websites, Elementor, themes, plugins, WooCommerce, ACF and CMS customization
-* **Moodle:** LMS customization, course platforms, dashboards, user flows and educational features
-* **Modern JavaScript:** React and Next.js applications and reusable components
-* **E-commerce:** Shopify and WooCommerce storefronts
-* **Performance:** Responsive layouts, optimization, usability and cross-browser compatibility
+### What I Do
+
+- 🌐 Modern Web Development
+- 🧩 WordPress Development
+- 🎓 Moodle & LMS Development
+- ⚛️ React & Next.js Development
+- 🛒 Shopify & WooCommerce
+- 🎨 Figma to Website Development
+- ⚡ Performance & Responsive Optimization
+- 🔧 Custom CMS Development
+- 🐘 PHP & WordPress Backend Development
 
 ---
 
-## Tech Stack
+# 🛠️ Tech Stack
 
 <div align="center">
 
 ### Web Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,react,nextjs,tailwind,bootstrap&theme=dark" alt="HTML, CSS, JavaScript, PHP, React, Next.js, Tailwind CSS, Bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,react,nextjs,tailwind,bootstrap&theme=dark" />
+
+<br><br>
 
 ### CMS & E-commerce
 
-<img src="https://skillicons.dev/icons?i=wordpress&theme=dark" alt="WordPress" />
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+<img src="https://img.shields.io/badge/Moodle-F98012?style=for-the-badge&logo=moodle&logoColor=white" />
+<img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
+<img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Moodle-F98012?style=for-the-badge&logo=moodle&logoColor=white" alt="Moodle" />
-<img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" />
-<img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
+<br><br>
 
-### Tools & Workflow
+### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker&theme=dark" alt="Git, GitHub, VS Code, Figma, Docker" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker&theme=dark" />
 
 </div>
 
 ---
 
-## What I Can Build
+# 🚀 What I Can Build
 
-| Area                      | Capabilities                                                                                     |
-| ------------------------- | ------------------------------------------------------------------------------------------------ |
-| **Web Development**       | Responsive websites, web applications, reusable components and modern UI implementation          |
-| **WordPress Development** | Custom themes, Elementor, plugins, ACF, CPTs, WooCommerce and CMS customization                  |
-| **Moodle Development**    | LMS customization, course platforms, dashboards, user roles, learning workflows and integrations |
-| **React & Next.js**       | Modern web applications, reusable components and responsive interfaces                           |
-| **E-commerce**            | Shopify and WooCommerce store development and customization                                      |
-| **Performance**           | Responsive optimization, page speed improvements and cross-browser fixes                         |
-| **Design Implementation** | Converting Figma and design concepts into production-ready websites                              |
-| **PHP Development**       | WordPress backend customization, hooks, actions, filters and custom functionality                |
-
----
-
-## Featured Projects
-
-### 🌐 WordPress Projects
-
-#### [LT Connects](https://ltconnects.com/)
-
-**WordPress + Elementor**
-
-A responsive business website built using WordPress and Elementor, with custom page layouts and responsive design implementation.
-
-**Tech:** WordPress · Elementor · HTML · CSS · JavaScript
+| Area | Skills |
+| --- | --- |
+| **Web Development** | Responsive websites, web applications and modern UI implementation |
+| **WordPress** | Custom themes, Elementor, plugins, ACF, CPTs, WooCommerce |
+| **Moodle** | LMS customization, dashboards, courses, quizzes, learning workflows |
+| **React / Next.js** | Modern applications, reusable components and responsive interfaces |
+| **E-commerce** | Shopify and WooCommerce stores |
+| **PHP** | WordPress backend customization, hooks, actions and filters |
+| **Performance** | Responsive optimization, page speed and cross-browser improvements |
+| **UI Implementation** | Figma to responsive production-ready websites |
 
 ---
 
-#### [M7 Metals](https://m7metals.com/)
+# ⭐ Featured Projects
 
-**WordPress Website**
+## 🎓 Moodle & LMS Projects
 
-A professional industrial website focused on presenting services, products and company information through a responsive WordPress experience.
+### 🟠 Lilium Black LMS
 
-**Tech:** WordPress · Elementor · HTML · CSS
+**Moodle · LMS · E-learning Platform**
+
+A Moodle-based learning platform focused on structured learning experiences, student dashboards, courses, assessments and learning workflows.
+
+**Technologies**
+
+`Moodle` `PHP` `JavaScript` `HTML` `CSS` `LMS`
+
+<p>
+<a href="https://lms.liliumblack.co.za/">
+<img src="https://img.shields.io/badge/🔗_View_Live_Project-F98012?style=for-the-badge" />
+</a>
+</p>
 
 ---
 
-#### [SOTA Wellness](https://sotawellness.com/)
+### 🔵 Last Minute English
 
-**WordPress Website**
+**Moodle · English Learning Platform**
 
-A modern wellness-focused website with responsive layouts and CMS-driven content.
+An online learning platform focused on English language learning, practice activities, student progress and interactive learning experiences.
 
-**Tech:** WordPress · Elementor · HTML · CSS · JavaScript
+**Technologies**
+
+`Moodle` `PHP` `JavaScript` `HTML` `CSS` `LMS`
+
+<p>
+<a href="https://practice.lastminuteenglish.com/my/">
+<img src="https://img.shields.io/badge/🔗_View_Live_Project-2563EB?style=for-the-badge" />
+</a>
+</p>
 
 ---
 
-#### [One Stop Aquatic Safety](https://onestopaquaticsafety.com/)
+# 🌐 WordPress Projects
 
-**WordPress Website**
+### LT Connects
+
+**WordPress · Elementor**
+
+A responsive business website developed using WordPress and Elementor with custom layouts and responsive implementation.
+
+**Technologies**
+
+`WordPress` `Elementor` `HTML` `CSS` `JavaScript`
+
+<a href="https://ltconnects.com/">
+<img src="https://img.shields.io/badge/🌐_Live_Website-21759B?style=for-the-badge" />
+</a>
+
+---
+
+### M7 Metals
+
+**WordPress · Business Website**
+
+A professional industrial website designed to present services and company information through a modern responsive experience.
+
+**Technologies**
+
+`WordPress` `Elementor` `HTML` `CSS`
+
+<a href="https://m7metals.com/">
+<img src="https://img.shields.io/badge/🌐_Live_Website-21759B?style=for-the-badge" />
+</a>
+
+---
+
+### SOTA Wellness
+
+**WordPress · Wellness Website**
+
+A modern wellness-focused website with responsive layouts and structured CMS-driven content.
+
+**Technologies**
+
+`WordPress` `Elementor` `HTML` `CSS`
+
+<a href="https://sotawellness.com/">
+<img src="https://img.shields.io/badge/🌐_Live_Website-21759B?style=for-the-badge" />
+</a>
+
+---
+
+### One Stop Aquatic Safety
+
+**WordPress · Business Website**
 
 A professional website for aquatic safety services with responsive layouts and structured content.
 
-**Tech:** WordPress · Elementor · HTML · CSS
+**Technologies**
+
+`WordPress` `Elementor` `HTML` `CSS`
+
+<a href="https://onestopaquaticsafety.com/">
+<img src="https://img.shields.io/badge/🌐_Live_Website-21759B?style=for-the-badge" />
+</a>
 
 ---
 
-#### [Loverde Group](https://loverdegroup.com/)
+### Loverde Group
 
-**WordPress Website**
+**WordPress · Corporate Website**
 
-A business website focused on clean presentation, responsive layouts and structured company content.
+A clean corporate website focused on responsive presentation and structured business content.
 
-**Tech:** WordPress · Elementor · HTML · CSS
+**Technologies**
 
----
+`WordPress` `Elementor` `HTML` `CSS`
 
-### ⚡ Next.js Project
-
-#### [Group Retreats](https://groupretreats.co.uk/)
-
-**Next.js**
-
-A modern web experience built with Next.js, focusing on responsive layouts, reusable components and a polished user experience.
-
-**Tech:** Next.js · React · JavaScript · HTML · CSS
+<a href="https://loverdegroup.com/">
+<img src="https://img.shields.io/badge/🌐_Live_Website-21759B?style=for-the-badge" />
+</a>
 
 ---
 
-### 🛍️ Shopify Project
+# ⚛️ React & Next.js
 
-#### [Ethoterra](https://ethoterra.com/)
+### Group Retreats
 
-**Shopify**
+**Next.js · React**
+
+A modern web experience built with Next.js and React, focusing on responsive layouts, reusable components and a polished user experience.
+
+**Technologies**
+
+`Next.js` `React` `JavaScript` `HTML` `CSS`
+
+<a href="https://groupretreats.co.uk/">
+<img src="https://img.shields.io/badge/🌐_Live_Website-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+</a>
+
+---
+
+# 🛒 Shopify
+
+### Ethoterra
+
+**Shopify · E-commerce**
 
 An e-commerce website built on Shopify with a focus on storefront presentation, responsive design and user experience.
 
-**Tech:** Shopify · Liquid · HTML · CSS · JavaScript
+**Technologies**
+
+`Shopify` `Liquid` `HTML` `CSS` `JavaScript`
+
+<a href="https://ethoterra.com/">
+<img src="https://img.shields.io/badge/🌐_Live_Store-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
+</a>
 
 ---
 
-### 🎓 Moodle / LMS Development
+# 🎯 Development Focus
 
-I also work on **Moodle-based learning platforms**, including:
-
-* LMS customization
-* Course and learning workflows
-* Student dashboards
-* Instructor dashboards
-* User roles and permissions
-* Interactive learning modules
-* Quiz and assessment functionality
-* Progress tracking
-* Learning analytics
-* Custom Moodle functionality
-* WordPress + Moodle environments
-
----
-
-## Development Approach
-
-I focus on building websites and applications that are:
-
-* ⚡ **Fast & Performance-Focused**
-* 📱 **Fully Responsive**
-* 🧩 **Easy to Maintain**
-* 🎯 **User-Focused**
-* 🔧 **Customizable**
-* 🔒 **Reliable & Scalable**
-* 🎨 **Pixel-Accurate When Required**
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SaifAliSiddique&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="Saif's GitHub stats" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaifAliSiddique&layout=compact&hide_border=true&theme=github_dark" alt="Languages used in public GitHub repositories" height="165" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaifAliSiddique&theme=github-compact&hide_border=true" alt="Saif's GitHub activity graph" width="95%" />
-
-</div>
-
----
-
-## Let's Connect
-
-I'm open to connecting with **development teams, recruiters, agencies, and businesses** looking for a reliable Web Developer for WordPress, Moodle, React, Next.js, Shopify, or WooCommerce projects.
-
-* **GitHub:** [github.com/SaifAliSiddique](https://github.com/SaifAliSiddique)
-* **Email:** [saifalisiddique1598@gmail.com](mailto:saifalisiddique1598@gmail.com)
-* **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/)
-
----
-
-<div align="center">
-
-### Thanks for visiting my profile! 👋
-
-**Web Developer · WordPress · Moodle · React · Next.js · Shopify · WooCommerce**
-
-</div>
+```text
+Web Development
+      │
+      ├── WordPress
+      │     ├── Elementor
+      │     ├── Custom Themes
+      │     ├── Custom Plugins
+      │     ├── ACF / CPT
+      │     └── WooCommerce
+      │
+      ├── Moodle
+      │     ├── LMS Development
+      │     ├── Course Systems
+      │     ├── Student Dashboards
+      │     ├── Assessments
+      │     └── Learning Workflows
+      │
+      ├── Modern JavaScript
+      │     ├── React
+      │     └── Next.js
+      │
+      └── E-commerce
+            ├── Shopify
+            └── WooCommerce
